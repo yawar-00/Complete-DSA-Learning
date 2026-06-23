@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
