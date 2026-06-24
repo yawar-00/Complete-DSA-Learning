@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0024-swap-nodes-in-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
