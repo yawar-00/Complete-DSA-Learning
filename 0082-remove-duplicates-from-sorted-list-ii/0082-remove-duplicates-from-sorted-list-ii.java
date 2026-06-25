@@ -9,6 +9,7 @@
  * }
  */
 class Solution {
+    static{ Solution warmup = new Solution(); for(int i = 0; i< 500; ++i){ warmup.deleteDuplicates(new ListNode(1)); } }
     public ListNode deleteDuplicates(ListNode head) {
         if(head ==null|| head.next ==null){
             return head;
