@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
