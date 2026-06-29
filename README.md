@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
