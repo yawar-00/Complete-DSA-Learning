@@ -5,10 +5,7 @@ class Solution {
             n-=i;
             i++;
         }
-        if(n>=0){
-            return i-1;
-        }
-        return i;
+        return i-1;
 
     }
 }
