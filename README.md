@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 ## Queue
 |  |
 | ------- |
