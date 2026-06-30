@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
