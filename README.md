@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
