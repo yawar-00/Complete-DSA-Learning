@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
