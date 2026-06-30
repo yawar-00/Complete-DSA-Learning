@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0551-student-attendance-record-i) |
+| [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
