@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,8 +153,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
