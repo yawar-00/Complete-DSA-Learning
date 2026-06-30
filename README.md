@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0551-student-attendance-record-i) |
 ## Sliding Window
 |  |
 | ------- |
