@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
 ## Two Pointers
 |  |
 | ------- |
