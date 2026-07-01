@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
