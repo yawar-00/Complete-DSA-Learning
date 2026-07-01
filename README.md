@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
+| [0771-jewels-and-stones](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
 | ------- |
