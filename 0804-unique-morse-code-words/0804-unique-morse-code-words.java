@@ -7,12 +7,12 @@ class Solution {
     "...","-","..-","...-",".--","-..-","-.--","--.."
 };
         for(String w:words){
-            String code ="";
+            StringBuilder code =new StringBuilder();
             for(int i=0;i<w.length();i++){
                 char ch = w.charAt(i);
-                code +=arr[ch-'a']; 
+                code.append(arr[ch-'a']); 
             }
-            set.add(code);
+            set.add(code.toString());
         }
         return set.size();
     }
