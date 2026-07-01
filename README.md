@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0821-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0821-shortest-distance-to-a-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0541-reverse-string-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0821-shortest-distance-to-a-character) |
 ## Binary Search
 |  |
 | ------- |
