@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0541-reverse-string-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 ## Queue
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 ## Design
 |  |
 | ------- |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
