@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
 ## Math
 |  |
 | ------- |
