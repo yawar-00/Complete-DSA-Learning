@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0804-unique-morse-code-words) |
+| [0929-unique-email-addresses](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0830-positions-of-large-groups) |
+| [0929-unique-email-addresses](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0929-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0929-unique-email-addresses) |
 ## Two Pointers
 |  |
 | ------- |
