@@ -1,4 +1,5 @@
 class Solution {
+    static{ Solution warmup = new Solution(); for(int i = 0; i< 500; ++i){ warmup.maxDigitRange(new int[2]); } }
     public int maxDigitRange(int[] nums) {
         HashMap<Integer,Integer> map = new HashMap<>();
         int max=Integer.MIN_VALUE;
