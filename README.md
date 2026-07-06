@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
