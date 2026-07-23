@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0509-fibonacci-number) |
 ## Linked List
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0832-flipping-an-image) |
 ## Queue
