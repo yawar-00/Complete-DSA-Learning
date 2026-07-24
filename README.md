@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0075-sort-colors) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
