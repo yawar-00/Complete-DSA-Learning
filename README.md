@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0441-arranging-coins) |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0860-lemonade-change) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yawar-00/Complete-DSA-Learning/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
